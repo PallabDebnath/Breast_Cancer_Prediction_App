@@ -1,0 +1,12 @@
+#1. numpy==2.2.1 
+Command: pip install numpy
+#2. pandas==2.2.2
+Command: pip install pandas
+#3. dill==0.3.8 
+Command: pip install dill
+#4. plotly==5.24.0
+Command: pip install plotly
+#5. scikit_learn==1.5.1
+Command: pip install scikit-learn
+#6. streamlit==1.38.0
+Command: pip install streamlit
